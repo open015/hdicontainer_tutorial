@@ -1,0 +1,14 @@
+{
+  "role": {
+    "name": "inventory",
+    "object_privileges": [
+      {
+        "name": "INVENTORY_VIEW",
+        "type": "VIEW",
+        "privileges": [
+          "SELECT"
+        ]
+      }
+    ]
+  }
+}

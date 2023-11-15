@@ -1,0 +1,14 @@
+{
+  "role": {
+    "name": "inventory_with_grant#",
+    "object_privileges": [
+      {
+        "name": "INVENTORY_VIEW",
+        "type": "VIEW",
+        "privileges_with_grant_option": [
+          "SELECT"
+        ]
+      }
+    ]
+  }
+}
